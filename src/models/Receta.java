@@ -9,7 +9,7 @@ import java.math.BigDecimal;
  * @author Alejandro Escobedo
  */
 public class Receta extends BaseModel{
-    public static final String PROP_ID_RECETA = "PROP_ID_RECETA";
+    public static final String PROP_ID_RECETA = "PROP_ID_RECETAS";
     public static final String PROP_ID_PRODUCTO = "PROP_ID_PRODUCTO";
     public static final String PROP_TIEMPO_COCCION = "PROP_TIEMPO_COCCION";
     public static final String PROP_CANTIDAD_HECHA = "PROP_CANTIDAD_HECHA";
